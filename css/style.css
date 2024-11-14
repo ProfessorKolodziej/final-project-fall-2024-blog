@@ -19,7 +19,35 @@ to help you out.
 	--size-xl: 1200px;
 */
 
+
 @import url("colors.css");
+
+.logo {
+	/*Asked Copilot to help with the scaling of the svg */
+	width: 100px;
+	/* Set the desired width */
+	height: auto;
+	/* Maintain aspect ratio */
+	max-width: 300px;
+	/* Ensure it scales down with the container */
+	margin-right: auto;
+}
+
+
+.article-image {
+	/*Asked Copilot to help with the scaling of the svg */
+	width: 40%;
+	/* Set the desired width */
+	height: auto;
+	/* Maintain aspect ratio */
+	max-width: 100%;
+	/* Ensure it scales down with the container */
+	margin-right: 10px;
+	flex-shrink: 1;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
 /* This uses the same value as --size-xs. */
 @media screen and (width >=320px) {
 	.main-container {
@@ -49,7 +77,7 @@ to help you out.
 @media screen and (width >=1024px) {
 	.logo {
 		flex-grow: 2;
-		width: 300px;
+
 	}
 }
 
@@ -86,30 +114,7 @@ body {
 
 }
 
-.logo {
-	/*Asked Copilot to help with the scaling of the svg */
-	width: 100px;
-	/* Set the desired width */
-	height: auto;
-	/* Maintain aspect ratio */
-	max-width: 300px;
-	/* Ensure it scales down with the container */
-	margin-right: auto;
-}
 
-
-.article-image {
-	/*Asked Copilot to help with the scaling of the svg */
-	width: 40%;
-	/* Set the desired width */
-	height: auto;
-	/* Maintain aspect ratio */
-	max-width: 100%;
-	/* Ensure it scales down with the container */
-	margin-right: 10px;
-	flex-shrink: 1;
-	border-radius: 10px 10px 10px 10px;
-}
 
 
 .Social-media {
@@ -225,5 +230,11 @@ body {
 
 }
 :is(.main-frame-items[date-page="Articles"]) {
-	height: 10px;
+	justify-content: center;
 }
+.articles-nav {
+	display:flex;
+	flex-direction: row;
+
+}
+
