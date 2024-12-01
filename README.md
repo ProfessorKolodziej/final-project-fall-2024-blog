@@ -1,4 +1,4 @@
-# Final Project (Replace with your project name)
+# PinkyToe
 
 ## Description
 

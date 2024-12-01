@@ -1,0 +1,959 @@
+{
+	"items": [
+	  {
+		 "id": "672dab11adbe186673af84b7",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:10:22.730Z",
+		 "createdOn": "2024-11-08T06:09:21.665Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Devansh Vajpay",
+			"slug": "devansh-vajpay",
+			"positions": [
+			  "672dab44b55e1721f1d9c94e"
+			]
+		 }
+	  },
+	  {
+		 "id": "672daaf2109f50d42a037608",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:10:27.700Z",
+		 "createdOn": "2024-11-08T06:08:50.239Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Reuben Dsouza",
+			"slug": "reuben-dsouza",
+			"positions": [
+			  "672dab44b55e1721f1d9c94e"
+			]
+		 }
+	  },
+	  {
+		 "id": "672daa9a5464f10cf7b0f398",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:07:22.975Z",
+		 "createdOn": "2024-11-08T06:07:22.975Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Ariana Beck",
+			"slug": "ariana-beck",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32055"
+			]
+		 }
+	  },
+	  {
+		 "id": "672daa887def01f8d3d408fa",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:10:34.796Z",
+		 "createdOn": "2024-11-08T06:07:04.242Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Taylor Olson",
+			"slug": "taylor-olson",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "672dab44b55e1721f1d9c94e"
+			]
+		 }
+	  },
+	  {
+		 "id": "672daa39d50e8433872c95a2",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:05:45.116Z",
+		 "createdOn": "2024-11-08T06:05:45.116Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Shivani Bedre",
+			"slug": "shivani-bedre",
+			"positions": [
+			  "659445291a912c0b9bf32055",
+			  "659445291a912c0b9bf32059"
+			]
+		 }
+	  },
+	  {
+		 "id": "672daa1aa1b452c7d86723f6",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:05:14.927Z",
+		 "createdOn": "2024-11-08T06:05:14.927Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Adrianna Uykan",
+			"slug": "adrianna-uykan",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32059"
+			]
+		 }
+	  },
+	  {
+		 "id": "672da9fb45eb375031d5d6fc",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:04:43.838Z",
+		 "createdOn": "2024-11-08T06:04:43.838Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Lindsay Lee",
+			"slug": "lindsay-lee",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32059"
+			]
+		 }
+	  },
+	  {
+		 "id": "672da9a59142b5d89b6fe5f0",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:03:17.051Z",
+		 "createdOn": "2024-11-08T06:03:17.051Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Claire Zhang",
+			"slug": "claire-zhang",
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			]
+		 }
+	  },
+	  {
+		 "id": "672da98bb64aa3fa6f931cba",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:02:51.198Z",
+		 "createdOn": "2024-11-08T06:02:51.198Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Maya Bride",
+			"slug": "maya-bride",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32059"
+			]
+		 }
+	  },
+	  {
+		 "id": "672da976d28ff9fc3a1498c0",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:02:30.047Z",
+		 "createdOn": "2024-11-08T06:02:30.047Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Marissa Gilbert",
+			"slug": "marissa-gilbert",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32055"
+			]
+		 }
+	  },
+	  {
+		 "id": "672da959de42aec264c6f9e0",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:10:43.597Z",
+		 "createdOn": "2024-11-08T06:02:01.824Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Rachel Stern",
+			"slug": "rachel-stern",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32059",
+			  "672dab44b55e1721f1d9c94e"
+			]
+		 }
+	  },
+	  {
+		 "id": "6727af53475177577ca0dee8",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-05T18:42:33.598Z",
+		 "lastUpdated": "2024-11-03T17:13:55.900Z",
+		 "createdOn": "2024-11-03T17:13:55.900Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Willa Norvell",
+			"slug": "willa-norvell",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "6594453c1a33e2bd42c55e4c"
+			]
+		 }
+	  },
+	  {
+		 "id": "6727ad7a5215eb780b921b15",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-05T18:42:33.598Z",
+		 "lastUpdated": "2024-11-03T17:06:02.079Z",
+		 "createdOn": "2024-11-03T17:06:02.079Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Sage Clark",
+			"slug": "sage-clark",
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			]
+		 }
+	  },
+	  {
+		 "id": "6727ad61d8bc9bb538fc1b4b",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-05T18:42:33.598Z",
+		 "lastUpdated": "2024-11-03T17:05:37.743Z",
+		 "createdOn": "2024-11-03T17:05:37.743Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Cassidy Wall",
+			"slug": "cassidy-wall",
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			]
+		 }
+	  },
+	  {
+		 "id": "6727ad19ae56b39e24fe11d0",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-05T18:42:33.598Z",
+		 "lastUpdated": "2024-11-03T17:04:56.580Z",
+		 "createdOn": "2024-11-03T17:04:25.268Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Martin Akamine",
+			"slug": "martin-akamine",
+			"positions": [
+			  "659445291a912c0b9bf32059",
+			  "659445291a912c0b9bf3205b"
+			]
+		 }
+	  },
+	  {
+		 "id": "6727ad03dbd8307facf4766f",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-05T18:42:33.598Z",
+		 "lastUpdated": "2024-11-03T17:05:10.181Z",
+		 "createdOn": "2024-11-03T17:04:03.138Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"visible": false,
+			"name": "Maggie McNeir",
+			"slug": "maggie-mcneir",
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			]
+		 }
+	  },
+	  {
+		 "id": "65d7840e3b62b64863ddfd5a",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:18:40.692Z",
+		 "lastUpdated": "2024-03-19T02:16:44.184Z",
+		 "createdOn": "2024-02-22T17:27:42.487Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"bio-2": "TRUTH FR",
+			"name": "ā̶͖̮̯̙̦̻̬̜͇͕̀̽̓̏̈́̏̓̄n̵̬̔̐o̷̱̯̳͔̱̒͗̇̇ͅn̸̛̤̰̈́̓̒̓͊̈͆̏͠y̸̨̢̰̠̳̝͚͈̙͉̒̀̑̔͆̅̏͝m̶̤̾̒̈́͆͋̈o̶̡̨̘̺̘̣̎͐̀̈̕͜͠u̸̬̬͈̺̩̺͎̐̃ś̴̛̛͖̺̠̼͎͛͒͐͌͆̚",
+			"slug": "anonymous",
+			"picture": {
+			  "fileId": "65d783f0d3dfe83438015d2b",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65d783f0d3dfe83438015d2b_31vlHgCHiaL._AC_UY1000_.jpg",
+			  "alt": null
+			},
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			],
+			"visible": true
+		 }
+	  },
+	  {
+		 "id": "65c102aee9d19e38b48e1e89",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:37:53.705Z",
+		 "createdOn": "2024-02-05T15:45:50.790Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Yara Ahmed",
+			"slug": "yara-ahmed",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8fa7e0511362599ef10f5",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8fa7e0511362599ef10f5_Yara%20Ahmed.jpg",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c102a4c1fe87689b186e47",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:34:08.047Z",
+		 "createdOn": "2024-02-05T15:45:40.578Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Katherine (Katie) Reilly",
+			"slug": "katherine-katie-reilly",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32055"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8f99ed0d8d8bd2e7ebe50",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8f99ed0d8d8bd2e7ebe50_Katie_Reilly.jpg",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c1028ee78d09f9ec2140f9",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:45:18.306Z",
+		 "createdOn": "2024-02-05T15:45:18.306Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Julia (AJ) Bono",
+			"slug": "julia-aj-bono",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c102641f8f89231f74ecaa",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:33:42.299Z",
+		 "createdOn": "2024-02-05T15:44:36.450Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Kaya Manolt",
+			"slug": "kaya-manolt",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8f983174624ddfe3aa59b",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8f983174624ddfe3aa59b_KayaManolt.jpg",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c102591d577804cbef83af",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:59:54.484Z",
+		 "createdOn": "2024-02-05T15:44:25.785Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Elizabeth Morearty",
+			"slug": "elizabeth-morearty",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32055"
+			],
+			"picture": {
+			  "fileId": "65c105f8b82858785bf994bf",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c105f8b82858785bf994bf_lizzymorearty.jpg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c1024d9e1688e2b5514bc8",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:44:13.194Z",
+		 "createdOn": "2024-02-05T15:44:13.194Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Tyronica Matseghurne",
+			"slug": "tyronica-matseghurne",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c10244ada1a1421a1024f1",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:44:04.179Z",
+		 "createdOn": "2024-02-05T15:44:04.179Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Sandra Iraheta",
+			"slug": "sandra-iraheta",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32059"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c1023349105ae4260ff15f",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:43:47.947Z",
+		 "createdOn": "2024-02-05T15:43:47.947Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Ava Doyle",
+			"slug": "ava-doyle",
+			"positions": [
+			  "6594453c1a33e2bd42c55e4c",
+			  "659445291a912c0b9bf32059"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c102293e6c0adcd127468e",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T22:37:45.057Z",
+		 "createdOn": "2024-02-05T15:43:37.558Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Abbie Garretson",
+			"slug": "abbie-garretson",
+			"positions": [
+			  "659445291a912c0b9bf32059"
+			],
+			"picture": {
+			  "fileId": "65c1038914960ce880f562cf",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c1038914960ce880f562cf_Abbie%20Garretson%20.jpeg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c10209f1c6923679f062b4",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T22:37:06.185Z",
+		 "createdOn": "2024-02-05T15:43:05.890Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Gabrielle Wylie-Chaney",
+			"slug": "gabrielle-wylie-chaney",
+			"positions": [
+			  "659445291a912c0b9bf32059",
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"picture": {
+			  "fileId": "65c1040f14c7b46abd6b67de",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c1040f14c7b46abd6b67de_gabriellewylie-chaney.jpg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c101e0220a4806fb192a24",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:29:54.536Z",
+		 "createdOn": "2024-02-05T15:42:24.853Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Emma Santos",
+			"slug": "emma-santos",
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8f8a11b48de4de76971f8",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8f8a11b48de4de76971f8_Emma_Santos.jpg",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c1015340da098b1e6235f3",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-03T16:47:55.352Z",
+		 "lastUpdated": "2024-11-03T16:20:48.418Z",
+		 "createdOn": "2024-02-05T15:40:02.967Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Ava Carrel",
+			"slug": "ava-carrel",
+			"positions": [
+			  "65944564c36aefbb5ef6c93b",
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32052"
+			],
+			"picture": {
+			  "fileId": "65c10441b888d8bf41443dc4",
+			  "url": "https://cdn.prod.website-files.com/659444782072da89d2270aab/65c10441b888d8bf41443dc4_IMG_8539.jpg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c1011e99582cd4b0d16e0b",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:26:49.043Z",
+		 "createdOn": "2024-02-05T15:39:10.772Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Elana Felig ",
+			"slug": "elana-felig",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8f7e72d51648a32f7ce9b",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8f7e72d51648a32f7ce9b_Elana%20Felig.jpg",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c10101dda4ee880f497199",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:59:33.198Z",
+		 "createdOn": "2024-02-05T15:38:41.652Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Piper Hope",
+			"slug": "piper-hope",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"picture": {
+			  "fileId": "65c1055a1f8f89231f76bc6d",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c1055a1f8f89231f76bc6d_Piper_Hope.JPG",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c100e4ebe159dbf241f695",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:59:44.925Z",
+		 "createdOn": "2024-02-05T15:38:12.108Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Noel Leibly ",
+			"slug": "noel-leibly",
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			],
+			"picture": {
+			  "fileId": "65c105552a2ffd4125484c79",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c105552a2ffd4125484c79_Noel%20Leibly.jpeg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c100d180d80aa4901fb0ef",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:37:53.843Z",
+		 "createdOn": "2024-02-05T15:37:53.843Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Ces Lodovico",
+			"slug": "ces-lodovico",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32059"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c100c234bf72ebad0893d2",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:37:38.069Z",
+		 "createdOn": "2024-02-05T15:37:38.069Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Mirna Benavente",
+			"slug": "mirna-benavente",
+			"positions": [
+			  "659445291a912c0b9bf3205b"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c100b594d491289ae72c55",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-03T16:56:28.300Z",
+		 "lastUpdated": "2024-11-03T16:56:22.301Z",
+		 "createdOn": "2024-02-05T15:37:25.368Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Sadie ",
+			"slug": "sadie",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"picture": {
+			  "fileId": "65c1056104daf8fdc62d94dc",
+			  "url": "https://cdn.prod.website-files.com/659444782072da89d2270aab/65c1056104daf8fdc62d94dc_Sadie_headshot%20(left).jpg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c100a955ad46fed810f760",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T22:37:16.040Z",
+		 "createdOn": "2024-02-05T15:37:13.448Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Doran Steinfeld",
+			"slug": "doran-steinfeld",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32059"
+			],
+			"picture": {
+			  "fileId": "65c103a8acd492563db10f4a",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c103a8acd492563db10f4a_Doran%20Steinfeld%20Headshot.jpeg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c1009e07199c0b56527377",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T16:00:25.527Z",
+		 "createdOn": "2024-02-05T15:37:02.201Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Jaclyn DiMatteo",
+			"slug": "jaclyn-dimatteo",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32055"
+			],
+			"picture": {
+			  "fileId": "65c104582bf7a04ed98e7679",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c104582bf7a04ed98e7679_JDimatteo.jpg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c1007e244539e2232f5a18",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:36:15.080Z",
+		 "createdOn": "2024-02-05T15:36:30.986Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Lily Beaudion",
+			"slug": "lily-beaudion",
+			"positions": [
+			  "659445291a912c0b9bf32057",
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8fa1deedb6fff95409657",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8fa1deedb6fff95409657_LilyBeaudion.png",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c10073b4031ca2ece60a9f",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:36:19.870Z",
+		 "createdOn": "2024-02-05T15:36:19.870Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Aidan Fairchild-Sandoval",
+			"slug": "aidan-fairchild-sandoval",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32057"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c1005f6bdbd64b4f97a9cf",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:35:59.607Z",
+		 "createdOn": "2024-02-05T15:35:59.607Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Isabella Hill",
+			"slug": "isabella-hill",
+			"positions": [
+			  "659445291a912c0b9bf3205b",
+			  "659445291a912c0b9bf32057"
+			],
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c100493c81d755e091b0b0",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T16:00:33.249Z",
+		 "createdOn": "2024-02-05T15:35:37.181Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Jawed Nur ",
+			"slug": "jawed-nur",
+			"positions": [
+			  "659445291a912c0b9bf32052",
+			  "659445291a912c0b9bf32055"
+			],
+			"picture": {
+			  "fileId": "65c10620e78d09f9ec237ca9",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c10620e78d09f9ec237ca9_IMG_2530.jpeg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c10025724c4b4007afebf8",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:27:03.510Z",
+		 "createdOn": "2024-02-05T15:35:01.391Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Eli Lynch",
+			"slug": "eli-lynch",
+			"positions": [
+			  "659445291a912c0b9bf32057",
+			  "659445291a912c0b9bf32059"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8f7f5174624ddfe391abe",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8f7f5174624ddfe391abe_Eli%20Lynch.JPG",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c0fffeb601d51ecdb09305",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-03-19T02:39:28.894Z",
+		 "lastUpdated": "2024-03-19T02:38:05.745Z",
+		 "createdOn": "2024-02-05T15:34:22.264Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Zea Karmadi",
+			"slug": "zea-karmadi",
+			"positions": [
+			  "659445291a912c0b9bf32057",
+			  "659445291a912c0b9bf32055"
+			],
+			"visible": false,
+			"picture": {
+			  "fileId": "65f8f681c05f0be69d16ed9c",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65f8f681c05f0be69d16ed9c_Zea%20Karmadi.JPG",
+			  "alt": null
+			}
+		 }
+	  },
+	  {
+		 "id": "65c0ffe2341185f44c76f1ff",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:59:38.795Z",
+		 "createdOn": "2024-02-05T15:33:54.750Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Ogenna Oraedu",
+			"slug": "ogenna-oraedu",
+			"positions": [
+			  "659445291a912c0b9bf32052",
+			  "65944618a40c682a4d3a9360"
+			],
+			"picture": {
+			  "fileId": "65c10558dde1753ebe618544",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c10558dde1753ebe618544_Ogenna.jpg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c0ffd79d7b01d62e7a74be",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T15:59:01.836Z",
+		 "createdOn": "2024-02-05T15:33:43.676Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Via Sznewajs",
+			"slug": "via-sznewajs",
+			"positions": [
+			  "659445291a912c0b9bf32052",
+			  "6594453c1a33e2bd42c55e4c"
+			],
+			"picture": {
+			  "fileId": "65c105c49d7b01d62e7dd47f",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c105c49d7b01d62e7dd47f_ViaHeadshot.png",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c0ffc91180aec303bb1b77",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-02-08T14:28:30.483Z",
+		 "lastUpdated": "2024-02-05T16:00:08.893Z",
+		 "createdOn": "2024-02-05T15:33:29.174Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Lauren Kelly",
+			"slug": "lauren-kelly",
+			"positions": [
+			  "659445291a912c0b9bf32052",
+			  "659445291a912c0b9bf32059"
+			],
+			"picture": {
+			  "fileId": "65c1053e724c4b4007b2c662",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c1053e724c4b4007b2c662_Lauren_Kelly_Headshot.jpg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  },
+	  {
+		 "id": "65c0ffb87505cd1896fe810b",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-10-06T15:55:44.499Z",
+		 "lastUpdated": "2024-06-06T18:45:17.564Z",
+		 "createdOn": "2024-02-05T15:33:12.202Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Ibbu Quraishi",
+			"slug": "ibbu-quraishi",
+			"positions": [
+			  "659445291a912c0b9bf32052",
+			  "6594455c1712ca09020c261d"
+			],
+			"picture": {
+			  "fileId": "65c10432ba04957cab58e1c2",
+			  "url": "https://uploads-ssl.webflow.com/659444782072da89d2270aab/65c10432ba04957cab58e1c2_IMG_4186.jpeg",
+			  "alt": null
+			},
+			"visible": false
+		 }
+	  }
+	],
+	"pagination": {
+	  "limit": 100,
+	  "offset": 0,
+	  "total": 47
+	}
+ }

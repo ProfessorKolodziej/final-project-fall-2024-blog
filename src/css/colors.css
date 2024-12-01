@@ -1,0 +1,28 @@
+:root {
+	--color-primary: blue;
+	--color-secondary: #c00;
+	--light--pink: rgba(255, 162, 180, 1);
+	--light-pink-alt: rgba(248, 130, 152, 1);
+	--dark--pink: rgba(254, 49, 144, 1);
+	--dark-pink-alt: rgba(236, 59, 104, 1);
+	--primary--white: rgba(255, 255, 255, 1);
+	--background: rgba(253, 241, 243, 1);
+	--subtle--background: rgba(252, 228, 232, 1);
+	--text--primary: rgba(26, 26, 26, 1);
+	--text--alt: rgba(45, 45, 45, 1);
+	--text--gray: rgba(74, 74, 74, 1);
+	--active: rgba(254, 49, 144, 1);
+	--highlighted--background: rgba(255, 240, 243, 1);
+	--highlighted--boardered: rgba(255, 162, 180, 1);
+	--hover--state: rgba(255, 240, 243, 1);
+	--hover--dark: rgba(248, 130, 152, 1);
+	--pressed: rgba(236, 59, 104, 1);
+	--outline: rgba(248, 130, 152, 0.6200000047683716);
+	--focus--outline: rgba(254, 49, 144, 1);
+	--subtle--outline: rgba(252, 228, 232, 1);
+
+
+
+
+
+}

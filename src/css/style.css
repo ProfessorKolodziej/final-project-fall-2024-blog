@@ -5,10 +5,7 @@ Try changing the color from blue to red in the
 primary color variable below.
 */
 
-:root {
-	--color-primary: blue;
-	--color-secondary: #c00;
-}
+
 
 /*
 CSS doesn't allow variables to be used in media
@@ -20,16 +17,236 @@ to help you out.
 	--size-md: 768px;
 	--size-lg: 1024px;
 	--size-xl: 1200px;
+
+	set a fall back for numbers that are not supported change font on pinkytoe website to a paid one or a full free one pleassseee helvatica maybe
 */
 
-h1 {
-	color: var(--color-primary);
+
+@import url("colors.css");
+
+.logo {
+	/*Asked Copilot to help with the scaling of the svg */
+	width: 100px;
+	/* Set the desired width */
+	height: auto;
+	/* Maintain aspect ratio */
+	max-width: 300px;
+	/* Ensure it scales down with the container */
+	margin-right: auto;
 }
 
+
+.article-image {
+	/*Asked Copilot to help with the scaling of the svg */
+	width: 40%;
+	/* Set the desired width */
+	height: auto;
+	/* Maintain aspect ratio */
+	max-width: 100%;
+	/* Ensure it scales down with the container */
+	margin-right: 10px;
+	flex-shrink: 1;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
 /* This uses the same value as --size-xs. */
-@media screen and (width >= 320px) {
-	.content-container {
-		margin: 0 auto;
-		max-width: 768px;
+@media screen and (width >=320px) {
+	.main-container {
+		/*
+		margin: 0 auto; centers the container*/
+		max-height: 1080px;
+		display: flex;
+		flex-direction: column;
+		flex-wrap: nowrap;
+		flex-grow: 1;
 	}
+}
+
+@media screen and (width >=744px) {
+
+	.main-container {
+		max-width: 1000px;
+		align-self: center;
+
+	}
+
+	.logo {
+		width: 200px;
+	}
+}
+
+@media screen and (width >=1024px) {
+	.logo {
+		flex-grow: 2;
+
+	}
+}
+
+
+html,
+body {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	overflow: scroll;
+
+
+}
+
+body {
+	display: flex;
+	margin: 10px;
+	padding: 10px;
+	background-color: #FAE8EA;
+	justify-content: space-between;
+
+}
+
+.top-header {
+	display: flex;
+	gap: 5px;
+	justify-content: flex-start;
+	flex-wrap: nowrap;
+	max-height: 50px;
+	padding: 5px;
+
+
+
+}
+
+
+
+
+.Social-media {
+	display: flex;
+	justify-content: flex-end;
+	max-width: 700px;
+}
+
+.social {
+	display: flex;
+	flex-grow: 1;
+	margin-left: 10px;
+	height: auto;
+}
+
+.alert {
+	display: flex;
+	justify-content: center;
+	background-color: var(--light--pink);
+	border: 1px solid black;
+	border-bottom: 0px;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.nav-bar ul {
+	display: flex;
+	justify-content: center;
+	padding-left: 0px;
+
+}
+
+.nav-bar li {
+	display: flex;
+	flex-grow: 1;
+	justify-content: center;
+
+}
+
+.nav-text {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	flex-grow: 1;
+}
+
+.nav-bar-image {
+	/*Asked Copilot to help with the scaling of the svg */
+	width: 20%;
+	/* Set the desired width */
+	height: auto;
+	/* Maintain aspect ratio */
+	max-width: 100%;
+
+}
+
+.main-frame {
+	display: flex;
+	gap: 10px;
+	background-color: var(--subtle--background);
+	padding: 20px;
+	border: 1px solid black;
+	overflow: scroll;
+	border-radius: 0px 0px 15px 15px;
+
+}
+
+.main-frame-items {
+
+	width: auto;
+	gap: 10px;
+
+
+
+
+}
+
+.article-box {
+	display: flex;
+	border: 1px solid black;
+	margin: 10px;
+	background-color: var(--light--pink);
+	border-radius: 10px;
+	padding: 10px;
+	gap: 10px;
+	flex-wrap: wrap;
+
+}
+
+.article-text {
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.target {
+	color: inherit;
+	text-decoration: none;
+	/* list-style for bullets */
+}
+
+.footer-container {
+	display: flex;
+	align-items: flex-end;
+	border: 1px solid black;
+	padding: 10px;
+
+}
+
+.copyright {
+	font-weight: 50px;
+	font-size: 10px;
+}
+
+.article-page {
+	display: flex;
+	margin-right: 10px;
+	width: auto;
+	border: 1px solid black;
+
+}
+
+:is(.main-frame-items[date-page="Articles"]) {
+	justify-content: center;
+}
+:is(.article-box[date-page="Articles"]) {
+	background-color: blue;
+}
+.articles-nav {
+	display: flex;
+	flex-direction: row;
+
 }
