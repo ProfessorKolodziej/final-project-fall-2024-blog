@@ -1,0 +1,139 @@
+{
+	"items": [
+	  {
+		 "id": "672dab44b55e1721f1d9c94e",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-11-08T06:15:55.709Z",
+		 "lastUpdated": "2024-11-08T06:10:12.677Z",
+		 "createdOn": "2024-11-08T06:10:12.677Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Website",
+			"slug": "website"
+		 }
+	  },
+	  {
+		 "id": "65944618a40c682a4d3a9360",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:21:28.587Z",
+		 "createdOn": "2024-01-02T17:21:28.587Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Treasurer",
+			"slug": "treasurer"
+		 }
+	  },
+	  {
+		 "id": "65944564c36aefbb5ef6c93b",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:18:28.304Z",
+		 "createdOn": "2024-01-02T17:18:28.304Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Editor-in-Chief",
+			"slug": "editor-in-chief"
+		 }
+	  },
+	  {
+		 "id": "6594455c1712ca09020c261d",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:18:20.118Z",
+		 "createdOn": "2024-01-02T17:18:20.118Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Managing Editor",
+			"slug": "managing-editor"
+		 }
+	  },
+	  {
+		 "id": "6594453c1a33e2bd42c55e4c",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:17:48.414Z",
+		 "createdOn": "2024-01-02T17:17:48.414Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Photo",
+			"slug": "photo"
+		 }
+	  },
+	  {
+		 "id": "659445291a912c0b9bf3205b",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:17:34.659Z",
+		 "createdOn": "2024-01-02T17:17:29.173Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Writer",
+			"slug": "rem-non"
+		 }
+	  },
+	  {
+		 "id": "659445291a912c0b9bf32055",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:17:58.007Z",
+		 "createdOn": "2024-01-02T17:17:29.172Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Social Media",
+			"slug": "reprehenderit-maiores-quos-ipsam"
+		 }
+	  },
+	  {
+		 "id": "659445291a912c0b9bf32057",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:17:38.127Z",
+		 "createdOn": "2024-01-02T17:17:29.172Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Copy",
+			"slug": "praesentium-aliquam-ut"
+		 }
+	  },
+	  {
+		 "id": "659445291a912c0b9bf32059",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:18:06.642Z",
+		 "createdOn": "2024-01-02T17:17:29.172Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "Special Projects",
+			"slug": "voluptate-optio"
+		 }
+	  },
+	  {
+		 "id": "659445291a912c0b9bf32052",
+		 "cmsLocaleId": "659444782072da89d2270aa8",
+		 "lastPublished": "2024-01-20T11:16:58.390Z",
+		 "lastUpdated": "2024-01-02T17:18:13.354Z",
+		 "createdOn": "2024-01-02T17:17:29.170Z",
+		 "isArchived": false,
+		 "isDraft": false,
+		 "fieldData": {
+			"name": "E-Board",
+			"slug": "non-veniam-sint"
+		 }
+	  }
+	],
+	"pagination": {
+	  "limit": 100,
+	  "offset": 0,
+	  "total": 10
+	}
+ }
