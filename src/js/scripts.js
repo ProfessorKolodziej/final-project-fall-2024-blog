@@ -10,19 +10,38 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 	const changeImagesBtn = document.getElementById('changeImages');
+	const originalImages = new Map(); // Copiloit suggested to use a map so I can re-refrence the images
+	let imagesChanged = false;
 
 	changeImagesBtn.addEventListener('click', () => {
-
-		 const allImages = document.querySelectorAll('img');
-
-
+		 const allImages = document.querySelectorAll('img:not(.logo):not(.social):not(.nav-bar-image)');
 		 const newImageUrl = "./images/IMG_3375.jpeg";
 
-		 // Asked copiloit how to change each image's source to the new image
 		 allImages.forEach(img => {
-			  img.src = newImageUrl;
-			  // Copilot suggested to add this line to make the images fit the container
-			  img.style.objectFit = 'cover';
+			  if (!imagesChanged) {
+					originalImages.set(img, img.src);
+					img.src = newImageUrl;
+					img.style.objectFit = 'cover';
+			  } else {
+					img.src = originalImages.get(img);
+			  }
+		 });
+
+
+		 imagesChanged = !imagesChanged;
+
+		 changeImagesBtn.textContent = imagesChanged ? 'Reset Images' : 'Change All Images';
+	});
+});
+document.addEventListener('DOMContentLoaded', () => {
+	const virusButton = document.querySelector('.virus');
+	const targetImage = document.querySelector('.virus-image');
+
+	virusButton.addEventListener('click', () => {
+		 targetImage.classList.add('virus-animation');
+
+		 targetImage.addEventListener('animationend', () => {
+			  targetImage.classList.remove('virus-animation');
 		 });
 	});
 });
@@ -45,7 +64,7 @@ function featuredArticles() {
 	if (document.activeElement.attributes[0].nodeValue == "index") {
 		fetch('js/articles.json')
 			.then(response => response.json())
-			.then(async (data) => {  // Make this callback async
+			.then(async (data) => { 
 				for (let i = 0; i < data.items.length; i++) {
 					if (data.items[i].fieldData.featured == true) {
 						const name = data.items[i].fieldData.name;
