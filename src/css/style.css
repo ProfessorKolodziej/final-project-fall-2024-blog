@@ -21,8 +21,130 @@ to help you out.
 	set a fall back for numbers that are not supported change font on pinkytoe website to a paid one or a full free one pleassseee helvatica maybe
 */
 
-
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Jacquard+12&family=Jaro:opsz@6..72&display=swap');
 @import url("colors.css");
+
+.jaro-font {
+	font-family: "Jaro", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.gravitas-one-regular {
+	font-family: "Gravitas One", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.jacquard-12-regular {
+	font-family: "Jacquard 12", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.chakra-petch-light {
+	font-family: "Chakra Petch", serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+.chakra-petch-regular {
+	font-family: "Chakra Petch", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.chakra-petch-medium {
+	font-family: "Chakra Petch", serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.chakra-petch-semibold {
+	font-family: "Chakra Petch", serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+.chakra-petch-bold {
+	font-family: "Chakra Petch", serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.chakra-petch-light-italic {
+	font-family: "Chakra Petch", serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+.chakra-petch-regular-italic {
+	font-family: "Chakra Petch", serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.chakra-petch-medium-italic {
+	font-family: "Chakra Petch", serif;
+	font-weight: 500;
+	font-style: italic;
+}
+
+.chakra-petch-semibold-italic {
+	font-family: "Chakra Petch", serif;
+	font-weight: 600;
+	font-style: italic;
+}
+
+.chakra-petch-bold-italic {
+	font-family: "Chakra Petch", serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+h1 {
+	font-family: "Gravitas One";
+	font-weight: 300;
+}
+
+h2 {
+	font-family: "Jaro";
+	font-weight: 200;
+}
+
+h3 {
+	color: var(--dark--pink);
+	font-family: "Jacquard 12";
+
+
+}
+
+h4 {
+	font-family: "Chakra Petch";
+	font-style: italic;
+}
+
+p {
+	font-family: "Chakra Petch";
+}
+
+button {
+	background-color: var(--light--pink);
+	font-family: "Jaro";
+	width: fit-content;
+	height: fit-content;
+	padding: 10px;
+}
+
+button:hover {
+	background-color: var(--hover--dark);
+}
+
+a {
+	display: flex;
+	flex-shrink: 1;
+}
 
 .logo {
 	/*Asked Copilot to help with the scaling of the svg */
@@ -49,6 +171,9 @@ to help you out.
 	border-radius: 10px 10px 10px 10px;
 }
 
+.article-full-image {
+	width: 100%;
+}
 
 /* This uses the same value as --size-xs. */
 @media screen and (width >=320px) {
@@ -60,6 +185,9 @@ to help you out.
 		flex-direction: column;
 		flex-wrap: nowrap;
 		flex-grow: 1;
+	}
+	.author-article {
+		flex-direction: column;
 	}
 }
 
@@ -93,21 +221,23 @@ body {
 	overflow: scroll;
 
 
+
+
 }
 
 body {
 	display: flex;
 	margin: 10px;
 	padding: 10px;
-	background-color: #FAE8EA;
 	justify-content: space-between;
+	background-color: var(--subtle--background);
 
 }
 
 .top-header {
 	display: flex;
 	gap: 5px;
-	justify-content: flex-start;
+	justify-content: space-between;
 	flex-wrap: nowrap;
 	max-height: 50px;
 	padding: 5px;
@@ -121,24 +251,29 @@ body {
 
 .Social-media {
 	display: flex;
-	justify-content: flex-end;
 	max-width: 700px;
+	min-width: 50px;
 }
 
-.social {
-	display: flex;
-	flex-grow: 1;
-	margin-left: 10px;
-	height: auto;
+
+.filters {
+	width: fit-content;
 }
 
 .alert {
 	display: flex;
-	justify-content: center;
+	justify-content: space-around;
 	background-color: var(--light--pink);
 	border: 1px solid black;
 	border-bottom: 0px;
 	border-radius: 15px 15px 0px 0px;
+	padding: 10px;
+	align-items: center;
+}
+
+.nav-bar {
+	position: sticky;
+	top: 0;
 }
 
 .nav-bar ul {
@@ -155,7 +290,7 @@ body {
 
 }
 
-.nav-text {
+.nav-box {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
@@ -164,7 +299,7 @@ body {
 
 .nav-bar-image {
 	/*Asked Copilot to help with the scaling of the svg */
-	width: 20%;
+	width: 15%;
 	/* Set the desired width */
 	height: auto;
 	/* Maintain aspect ratio */
@@ -172,14 +307,27 @@ body {
 
 }
 
+.nav-text {
+	width: fit-content;
+}
+
+.nav-bar-image:hover {
+	width: 20%;
+	height: auto;
+
+}
+
 .main-frame {
 	display: flex;
 	gap: 10px;
-	background-color: var(--subtle--background);
 	padding: 20px;
 	border: 1px solid black;
 	overflow: scroll;
 	border-radius: 0px 0px 15px 15px;
+	background-size: 80%;
+	background-image: url("../images/background.png");
+	background-position: center;
+	background-repeat: repeat;
 
 }
 
@@ -187,10 +335,16 @@ body {
 
 	width: auto;
 	gap: 10px;
+	padding: 20px;
+}
 
-
-
-
+.full-article {
+	background-color: var(--light--pink);
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
 }
 
 .article-box {
@@ -202,7 +356,13 @@ body {
 	padding: 10px;
 	gap: 10px;
 	flex-wrap: wrap;
+	justify-content: center;
 
+}
+
+.article-box:hover {
+	background-color: var(--hover--dark);
+	box-shadow: 0px 300px 84px 0px rgba(118, 97, 83, 0.00), 0px 192px 77px 0px rgba(118, 97, 83, 0.02), 0px 108px 65px 0px rgba(118, 97, 83, 0.06), 0px 48px 48px 0px rgba(118, 97, 83, 0.10), 0px 12px 26px 0px rgba(118, 97, 83, 0.12);
 }
 
 .article-text {
@@ -235,18 +395,94 @@ body {
 	display: flex;
 	margin-right: 10px;
 	width: auto;
-	border: 1px solid black;
+	justify-content: space-around;
 
 }
 
 :is(.main-frame-items[date-page="Articles"]) {
 	justify-content: center;
 }
+
 :is(.article-box[date-page="Articles"]) {
 	background-color: blue;
 }
+
+
 .articles-nav {
 	display: flex;
 	flex-direction: row;
+
+}
+
+.back-filter {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* Asked Copiolot to help me center div boxes and it used these rem values. Note to self; look up what rem is*/
+.team-member-box {
+	margin: 2rem 0;
+	padding: 2rem;
+	border-radius: 8px;
+	background: var(--light--pink);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.member-info {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 2rem;
+}
+
+.member-photo {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	object-fit: cover;
+	margin-bottom: 1rem;
+}
+
+.member-articles {
+	margin-top: 2rem;
+}
+
+.author-article {
+	display: flex;
+	gap: 1rem;
+	background-color: var(--light-pink-alt);
+	margin: 1rem 0;
+	padding: 1rem;
+	border: 1px solid #eee;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.article-thumbnail {
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+}
+
+.article-preview {
+	flex: 1;
+}
+
+.featured {
+	background-color: var(--focus--outline);
+	display: flex;
+	width: fit-content;
+	height: fit-content;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-radius: 10px;
+	outline-color: var(--outline);
+	/* used beautiful shadows plugin in on figma to help make this code */
+	box-shadow: 0px 300px 84px 0px rgba(118, 97, 83, 0.00), 0px 192px 77px 0px rgba(118, 97, 83, 0.02), 0px 108px 65px 0px rgba(118, 97, 83, 0.06), 0px 48px 48px 0px rgba(118, 97, 83, 0.10), 0px 12px 26px 0px rgba(118, 97, 83, 0.12);
+}
+
+.featured h3 {
+	margin: 5px;
+	color: var(--primary--white);
+	font-weight: 200;
 
 }

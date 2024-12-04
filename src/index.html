@@ -8,6 +8,13 @@
 	<meta name="description" content="Update your description here" />
 	<title>Pinkytoe.com</title>
 	<link rel="stylesheet" href=" ./css/style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Gravitas+One&family=Jacquard+12&family=Jaro:opsz@6..72&display=swap"
+		rel="stylesheet">
 
 	<!--
 
@@ -17,22 +24,23 @@
 
 <body data-page="index">
 	<section>
+		<button id="changeImages" class="image-change-btn">Change All Images</button>
 		<div class="top-header">
-			<img src="./images/testing logo.svg" class="logo">
+
+			<a href="./index.html"> <img src="./images/testing logo.svg" class="logo"> </a>
+
 			<div class="Social-media">
-				<img src="./images/Clealry Facebook.svg" class="social">
-				<img src="./images/Clealry Facebook.svg" class="social">
-				<img src="./images/Clealry Facebook.svg" class="social">
+				<a href="https://instagram.com/thepinkytoepaper" target="_blank">
+					<img src="./images/Clealry Facebook.svg" class="social">
+				</a>
 			</div>
-			<!--<img class="logo">
-			<img class="socials"> -->
 		</div>
 	</section>
 
 	<main class="main-container">
 
-		<section>
-			<div class="alert">
+		<section class="alert">
+			<div>
 				<h1> Pinky Thinky you are stinky</h1>
 			</div>
 		</section>
@@ -44,22 +52,21 @@
 		<nav class="nav-bar">
 			<ul>
 				<li>
-					<div class="nav-text">
-						<img src="./images/article.svg" class="nav-bar-image">
-						<h4>Articles</h4>
-					</div>
+					<a href="/Articles.html">
+						<div class="nav-box">
+							<img src="./images/edit.png" class="nav-bar-image">
+							<h4 class="nav-text">Articles</h4>
+
+						</div>
+					</a>
 				</li>
 				<li>
-					<div class="nav-text">
-						<img src="./images/article.svg" class="nav-bar-image">
-						<h4>Teams</h4>
-					</div>
-				</li>
-				<li>
-					<div class="nav-text">
-						<img src="./images/article.svg" class="nav-bar-image">
-						<h4>Projects</h4>
-					</div>
+					<a href="./Teams.html">
+						<div class="nav-box">
+							<img src="./images/leader.png" class="nav-bar-image">
+							<h4 class="nav-text">Teams</h4>
+						</div>
+					</a>
 				</li>
 			</ul>
 		</nav>
