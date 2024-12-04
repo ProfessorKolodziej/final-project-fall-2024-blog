@@ -186,6 +186,7 @@ a {
 		flex-wrap: nowrap;
 		flex-grow: 1;
 	}
+
 	.author-article {
 		flex-direction: column;
 	}
@@ -258,6 +259,12 @@ body {
 
 .filters {
 	width: fit-content;
+}
+
+.alert h1 {
+	font-family: "Gravitas One", serif;
+	font-weight: 300;
+	font-size: 25px;
 }
 
 .alert {
@@ -485,4 +492,88 @@ body {
 	color: var(--primary--white);
 	font-weight: 200;
 
+}
+
+.virus-image {
+	transition: transform 0.1s;
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: black;
+	z-index: 9999;
+	visibility: hidden;
+	/* Hide the element by default */
+}
+
+.virus-animation {
+	animation: vira-pop 2s both;
+	visibility: visible;
+	/* Show the element when animation class is added */
+}
+
+@keyframes vira-pop {
+	0% {
+		opacity: 1;
+	}
+
+	2% {
+		opacity: 0;
+	}
+
+	8% {
+		opacity: 1;
+	}
+
+	10% {
+		opacity: 0;
+	}
+
+	12% {
+		opacity: 1;
+	}
+
+	18% {
+		opacity: 0;
+	}
+
+	20% {
+		opacity: 1;
+	}
+
+	30% {
+		opacity: 0;
+	}
+
+	40% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0;
+	}
+
+	60% {
+		opacity: 1;
+	}
+
+	70% {
+		opacity: 0;
+	}
+
+	80% {
+		opacity: 1;
+	}
+
+	90% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 0;
+		visibility: hidden;
+		/* Hide the element after animation */
+	}
 }
